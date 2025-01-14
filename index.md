@@ -4,4 +4,7 @@ eli siis **TERVETULOA!**
 Täällä kerron kaikenlaisista asioista, jotka ovat kiinnostavia. 
 Harjoittelen webbijuttuja ja koodausta.
 
+## LINKKEJÄ
 
+- [blogi](blog/)
+- 
