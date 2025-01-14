@@ -7,4 +7,4 @@ Harjoittelen webbijuttuja ja koodausta.
 ## LINKKEJÄ
 
 - [blogi](blog/)
-- 
+- [tärkeät ilmoitukset](ilmoitukset/)
