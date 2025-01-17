@@ -8,3 +8,4 @@ Harjoittelen webbijuttuja ja koodausta.
 
 - [blogi](blog/)
 - [tärkeät ilmoitukset](tiedotteet.md/)
+- [taika portaali](portal.md)
