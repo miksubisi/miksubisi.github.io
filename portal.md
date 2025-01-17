@@ -1,4 +1,4 @@
-#OLET SAAPUNUT TAIKAMAAHAN🔮
+OLET SAAPUNUT TAIKAMAAHAN🔮
 
 Ympärilläsi on kaiken muotoisia violetteja puita.
 
